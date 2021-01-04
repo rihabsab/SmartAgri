@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "597202285071",
+    "firebase_url": "https://smartagri-1c7eb.firebaseio.com",
+    "project_id": "smartagri-1c7eb",
+    "storage_bucket": "smartagri-1c7eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597202285071:android:48ddff98de244645fee97a",
+        "android_client_info": {
+          "package_name": "com.enetcom.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597202285071-v6ckrhmqj1d9g30vr7in79hsk1l5426c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enetcom.com",
+            "certificate_hash": "05c98f0e53ef1acfc3b13974278f981b92a17058"
+          }
+        },
+        {
+          "client_id": "597202285071-fg96pd6caqeh4t4i926l7f757gejdu7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf2uaX4xeLhvn4OVkfD4Oi9_gt6DJb_eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597202285071-fg96pd6caqeh4t4i926l7f757gejdu7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
